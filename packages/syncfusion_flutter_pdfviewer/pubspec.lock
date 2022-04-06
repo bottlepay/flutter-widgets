@@ -145,45 +145,45 @@ packages:
   syncfusion_flutter_core:
     dependency: "direct main"
     description:
-      path: "../syncfusion_flutter_core"
-      relative: true
-    source: path
+      name: syncfusion_flutter_core
+      url: "https://pub.dartlang.org"
+    source: hosted
     version: "20.1.47"
   syncfusion_flutter_pdf:
     dependency: "direct main"
     description:
-      path: "../syncfusion_flutter_pdf"
-      relative: true
-    source: path
-    version: "20.1.47"
+      name: syncfusion_flutter_pdf
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "20.1.47-beta.1"
   syncfusion_pdfviewer_macos:
     dependency: "direct main"
     description:
-      path: "../syncfusion_pdfviewer_macos"
-      relative: true
-    source: path
-    version: "20.1.47"
+      name: syncfusion_pdfviewer_macos
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "20.1.47-beta.1"
   syncfusion_pdfviewer_platform_interface:
     dependency: "direct main"
     description:
-      path: "../syncfusion_pdfviewer_platform_interface"
-      relative: true
-    source: path
-    version: "20.1.47"
+      name: syncfusion_pdfviewer_platform_interface
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "20.1.47-beta.1"
   syncfusion_pdfviewer_web:
     dependency: "direct main"
     description:
-      path: "../syncfusion_pdfviewer_web"
-      relative: true
-    source: path
-    version: "20.1.47"
+      name: syncfusion_pdfviewer_web
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "20.1.47-beta.1"
   syncfusion_pdfviewer_windows:
     dependency: "direct main"
     description:
-      path: "../syncfusion_pdfviewer_windows"
-      relative: true
-    source: path
-    version: "20.1.47"
+      name: syncfusion_pdfviewer_windows
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "20.1.47-beta.1"
   term_glyph:
     dependency: transitive
     description:
